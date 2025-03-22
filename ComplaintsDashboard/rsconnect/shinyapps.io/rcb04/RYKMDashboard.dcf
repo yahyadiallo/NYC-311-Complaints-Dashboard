@@ -1,0 +1,12 @@
+name: RYKMDashboard
+title: RYKMDashboard
+username: rcb04
+account: rcb04
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14196845
+bundleId: 9927481
+url: https://rcb04.shinyapps.io/RYKMDashboard/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
